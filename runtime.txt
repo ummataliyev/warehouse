@@ -1,0 +1,2 @@
+python3.12
+postgres15.4
