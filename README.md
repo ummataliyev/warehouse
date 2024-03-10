@@ -8,7 +8,7 @@
   - ```pip3 install virtualenv```
   - ```virtualenv venv```
   - ```source venv/bin/activate```
-* 3 - cd into project "cd dj_multi_db"
+* 3 - cd into project "warehouse"
 * 4 - Install dependencies
   - ```pip3 install -r requirements.txt```
 * 5 - Up databased dependencies
